@@ -1,0 +1,6 @@
+sklearn-pandas==1.8.0
+streamlit==1.16.0
+pandas==1.4.2
+numpy==1.22.4
+scikit-learn==1.0.2
+xgboost==1.7.4
