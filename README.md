@@ -18,6 +18,7 @@ Accuracy score = 0.83
 
 ## References:
 * https://thinkingneuron.com/loan-classification-case-study/
+* https://lottiefiles.com/search?q=approved&category=animations
 
 ## Regards:
 **Shubham Chand**
