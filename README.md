@@ -9,7 +9,7 @@ Accuracy score = 0.83
 ## [Dashboard Link](https://51shubhamchand-ml-loan-classification-predicti-streamlit-z7kb5k.streamlit.app/)
 
 ## Preview:
-<img width="767" alt="Screenshot 2023-03-05 at 3 29 57 PM" src="https://user-images.githubusercontent.com/36957216/222953765-7ece565c-eb19-45bf-9eea-bb858a1080ad.png">
+<img width="760" alt="Screenshot 2023-03-05 at 10 12 41 PM" src="https://user-images.githubusercontent.com/36957216/222973795-17dcba8e-1179-4fc0-ad8a-b727f2d61865.png">
 
 ## Tools used:
 * Google Colab
