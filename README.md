@@ -6,7 +6,7 @@ Used Adaboost Classfifcation Machine Learning algorithm to predict whether the l
 
 Accuracy score = 0.83
 
-## [Dashboard Link](https://51shubhamchand-ml-loan-classification-predicti-streamlit-z7kb5k.streamlit.app/)
+## [Dashboard Link](https://51shubhamchand-ml-loan-classification-predicti-streamlit-3hndem.streamlit.app/)
 
 ## Preview:
 <img width="760" alt="Screenshot 2023-03-05 at 10 12 41 PM" src="https://user-images.githubusercontent.com/36957216/222973795-17dcba8e-1179-4fc0-ad8a-b727f2d61865.png">
